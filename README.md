@@ -55,16 +55,6 @@ root_folder/
 
 3. The app should now be running on `http://127.0.0.1:5000/`.
 
-## How to Access the Web App
-
-Once the app is running, you can access it through a web browser. Open a browser and visit:
-
-```
-http://127.0.0.1:5000/
-```
-
-This will load the homepage of the app.
-
 ## Features
 
 - **View Expense Summary**: The main page displays a grid layout of expenses categorized by month, showing summarized amounts by category.
